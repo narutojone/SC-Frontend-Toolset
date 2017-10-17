@@ -21,9 +21,10 @@ Application to be used to test some skills. It is not required to know most of t
 1. Make sure you have [Node.js](https://nodejs.org/) installed (v6.0+ required)
 2. [Install Yarn](https://yarnpkg.com/en/docs/install)
 3. Run `yarn install`
-4. `npm run dev`
-5. Check out `http://localhost:3000`
-6. Have fun!
+4. Run 'npm install'
+5. `npm run dev`
+6. Check out `http://localhost:3000`
+7. Have fun!
 
 ## API
 
